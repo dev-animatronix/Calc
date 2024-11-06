@@ -2,8 +2,9 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-![Logo](https://github.com/dev-animatronix/calc/blob/main/images/logo.png?raw=true){ width="600" height="600" style="display: block; margin: 0 auto" }
-
+<img src="![Picture.svg](https://github.com/dev-animatronix/calc/blob/main/images/logo.png?raw=true)" 
+        alt="logo" 
+        style="display: block; margin: 0 auto" />
 
 
 # <p style="text-align:center;">calc</p>
