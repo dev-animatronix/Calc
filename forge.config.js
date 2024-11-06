@@ -49,7 +49,6 @@ module.exports = {
           owner: 'dev-animatronix',
           name: 'calc'
         },
-        authToken: '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',
         prerelease: false,
         draft: true
       }
