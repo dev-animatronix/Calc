@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-<img src="![Picture.svg](https://github.com/dev-animatronix/calc/blob/main/images/logo.png?raw=true)" 
+<img src="https://github.com/dev-animatronix/calc/blob/main/images/logo.png?raw=true" 
         alt="logo" 
         style="display: block; margin: 0 auto" />
 
